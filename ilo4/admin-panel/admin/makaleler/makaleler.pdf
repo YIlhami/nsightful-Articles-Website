@@ -1,0 +1,20 @@
+<br />
+<b>Warning</b>:  Undefined array key "articleonay_id" in <b>C:\xampp\htdocs\ilo2\admin-panel\operations.php</b> on line <b>176</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "articlesil_id" in <b>C:\xampp\htdocs\ilo2\admin-panel\operations.php</b> on line <b>191</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "useronay_id" in <b>C:\xampp\htdocs\ilo2\admin-panel\operations.php</b> on line <b>205</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "usersil_id" in <b>C:\xampp\htdocs\ilo2\admin-panel\operations.php</b> on line <b>219</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "messagesil_id" in <b>C:\xampp\htdocs\ilo2\admin-panel\operations.php</b> on line <b>234</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "messageoku_id" in <b>C:\xampp\htdocs\ilo2\admin-panel\operations.php</b> on line <b>249</b><br />
+<br />
+<b>Warning</b>:  Undefined array key "basket_delete" in <b>C:\xampp\htdocs\ilo2\admin-panel\operations.php</b> on line <b>316</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type bool in <b>C:\xampp\htdocs\ilo2\admin-panel\operations.php</b> on line <b>344</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type bool in <b>C:\xampp\htdocs\ilo2\admin-panel\operations.php</b> on line <b>348</b><br />
+<br />
+<b>Warning</b>:  readfile(admin/makaleler/): Failed to open stream: No such file or directory in <b>C:\xampp\htdocs\ilo2\admin-panel\operations.php</b> on line <b>348</b><br />
